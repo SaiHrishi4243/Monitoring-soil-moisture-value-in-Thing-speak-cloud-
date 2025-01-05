@@ -53,7 +53,7 @@ The FC-28 soil moisture sensor includes 4-pins
 •	A0 pin is an analog output<br>
 •	D0 pin is a digital output<br>
 •	GND pin is a Ground<br>
-![image](https://github.com/user-attachments/assets/7fd3c618-7d11-4186-afc7-7ab81ec9d326)
+![image](https://github.com/user-attachments/assets/7fd3c618-7d11-4186-afc7-7ab81ec9d326)<br>
 
 This module also includes a potentiometer that will fix the threshold value, & the value can be evaluated by the comparator-LM393. The LED will turn on/off based on the threshold value.
 
